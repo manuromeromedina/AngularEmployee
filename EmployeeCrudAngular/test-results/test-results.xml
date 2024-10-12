@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome Headless 129.0.0.0 (Windows 10)" package="" timestamp="2024-10-01T18:57:32" id="0" hostname="DESKTOP-Q2953SE" tests="4" errors="0" failures="0" time="0.228">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/129.0.0.0 Safari/537.36"/>
+  </properties>
+  <testcase name="EmployeeComponent should create" time="0.163" classname="EmployeeComponent"/>
+  <testcase name="EmployeeService should retrieve all employees without verifying dates" time="0.014" classname="EmployeeService"/>
+  <testcase name="AddemployeeComponent should create" time="0.035" classname="AddemployeeComponent"/>
+  <testcase name="AppComponent should render title" time="0.016" classname="AppComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
