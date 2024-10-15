@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:7150/api/Employee'  // URL de la API para desarrollo
+  apiUrl: 'mrm-crud-api-qa.eastus.azurecontainer.io/api/employee'  // URL de la API para desarrollo
 };
 
 
